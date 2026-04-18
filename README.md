@@ -26,7 +26,9 @@ The project follows a structured data science workflow, including:
 ## ⚙️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Heart-Disease-Prediction-ML.git](https://github.com/YourUsername/Heart-Disease-Prediction-ML.git)
+   git clone [https://github.com/sarahalsamadi/
+Heart-Disease-Predictor.git](https://github.com/sarahalsamadi/
+Heart-Disease-Predictor.git)
 
 2. **Install required dependencies:**
    ```bash
